@@ -4,7 +4,7 @@ HACKER MODE
 
 ### Dependencies
 
-**`GORADSPY`** requires following programs to run properly -
+**`AREYOUHERE`** requires following programs to run properly -
 
 - `php`
 - `python3`
